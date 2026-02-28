@@ -1,40 +1,49 @@
 # 👋 Shah Zaib
 
 🚀 **AI/ML Engineer | Generative AI Specialist | Flutter Developer**  
-Building intelligent AI-powered systems and scalable mobile applications.
+Building intelligent AI-powered systems and scalable cross-platform applications.
 
-- 🤖 Generative AI • RAG • NLP • LangChain • OpenAI API  
-- 📱 Flutter • Firebase • REST APIs  
-- 🎓 BS Computer Science — COMSATS University (CGPA 3.75)  
-- 💼 Junior Flutter Developer @ Robotics World Pvt. Ltd.
+- 🤖 **Generative AI:** RAG, NLP, LangChain, OpenAI API  
+- 📱 **Mobile Development:** Flutter, Firebase, REST APIs  
+- 🎓 **BS Computer Science** — COMSATS University Islamabad (CGPA 3.75)  
+- 💼 **Junior Flutter Developer** @ Robotics World Pvt. Ltd.
 
 ---
 
-## 🧠 Profile Overview
+## 🧠 AI & Professional Focus
 
-| **🔬 AI Interests** | **🏅 Certifications** |
-|---|---|
-| Generative AI & RAG Systems | Microsoft Certified: Azure AI Fundamentals |
-| Natural Language Processing (NLP) | Huawei Certified AI Practitioner (HCIA-AI) |
-| AI-powered Mobile Apps | Artificial Intelligence — NAVTTC |
-| Machine Learning Models | Python — Google (Coursera) |
-| Intelligent Chatbots | Flutter & Dart — IBM |
+✔ Generative AI Applications & Retrieval-Augmented Generation (RAG)  
+✔ Natural Language Processing (NLP) & Intelligent Chatbots  
+✔ Machine Learning Models & Data-Driven Systems  
+✔ AI-Powered Mobile Applications  
+✔ Scalable Software Architecture & API Integration  
+
+---
+
+## 🏅 Certifications
+
+- 🎓 **Microsoft Certified: Azure AI Fundamentals (AI-900)**  
+- 🤖 **Huawei Certified AI Practitioner (HCIA-AI)**  
+- 🧠 **Artificial Intelligence (Machine Learning & Deep Learning)** — NAVTTC (Govt. of Pakistan)  
+- 🐍 **Get Started with Python** — Google (Coursera)  
+- 📱 **Flutter & Dart Mobile Development** — IBM (Coursera)  
 
 ---
 
 ## 💻 Tech Stack
 
-| **AI / ML** | **Mobile** | **Backend / Tools** |
-|---|---|---|
-| Python | Flutter | PHP |
-| OpenAI API | Dart | MySQL |
-| LangChain | Firebase | REST APIs |
-| Scikit-learn | | Git |
-| Pandas / NumPy | | |
+### 🤖 Artificial Intelligence & Machine Learning
+Python • OpenAI API • LangChain • Scikit-learn • Pandas • NumPy • RAG • NLP
+
+### 📱 Mobile Development
+Flutter • Dart • Firebase • State Management • Cross-Platform Apps
+
+### 🌐 Backend & Tools
+PHP • MySQL • REST APIs • Git • API Integration • Object-Oriented Programming (OOP)
 
 ---
 
-## 🌐 Connect
+## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shah-zaib154)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shah_____zaib)
@@ -47,7 +56,9 @@ Building intelligent AI-powered systems and scalable mobile applications.
 ## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=Shah-Zaib219&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shah-Zaib219&theme=tokyonight&hide_border=true&layout=compact)
+
 ![](https://nirzak-streak-stats.vercel.app/?user=Shah-Zaib219&theme=tokyonight&hide_border=true)
 
 ---
