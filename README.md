@@ -5,7 +5,7 @@
 Building scalable cross-platform mobile applications and integrating AI-powered features to create intelligent user experiences.
 
 - 📱 Flutter • Dart • Firebase • REST API Integration  
-- 🤖 Learning & building with Generative AI (RAG, NLP, OpenAI, LangChain)  
+- 🤖 Learning Generative AI (RAG, NLP, OpenAI, LangChain)  
 - 🎓 BS Computer Science — COMSATS University Islamabad (CGPA 3.75)  
 - 💼 Junior Flutter Developer @ Robotics World Pvt. Ltd.
 
@@ -13,20 +13,46 @@ Building scalable cross-platform mobile applications and integrating AI-powered 
 
 ## 🧠 Professional Focus
 
-• Cross-platform mobile app development with Flutter  
-• Clean architecture & state management  
-• AI-powered mobile applications and chatbot integration  
-• Generative AI fundamentals and practical implementations  
+<table>
+<tr>
+<td width="50%">
+
+✔ Cross-platform mobile app development (Flutter)  
+✔ Clean architecture & state management  
+✔ Scalable and maintainable app solutions  
+
+</td>
+<td width="50%">
+
+✔ AI-powered mobile apps & chatbot integration  
+✔ Generative AI fundamentals (RAG, NLP)  
+✔ Continuous learning in AI & ML  
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🏅 Certifications
 
-- Microsoft Certified: Azure AI Fundamentals (AI-900)  
-- Huawei Certified AI Practitioner (HCIA-AI)  
-- Artificial Intelligence (Machine Learning & Deep Learning) — NAVTTC  
-- Flutter & Dart Mobile Development — IBM (Coursera)  
-- Get Started with Python — Google (Coursera)
+<table>
+<tr>
+<td width="50%">
+
+🎓 Microsoft Certified: Azure AI Fundamentals (AI-900)  
+🤖 Huawei Certified AI Practitioner (HCIA-AI)  
+🧠 Artificial Intelligence (ML & DL) — NAVTTC  
+
+</td>
+<td width="50%">
+
+📱 Flutter & Dart Mobile Development — IBM (Coursera)  
+🐍 Get Started with Python — Google (Coursera)  
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -40,15 +66,20 @@ Python • OpenAI API • LangChain • RAG • NLP • Scikit-learn • Pandas 
 
 ---
 
+<table>
+<tr>
+<td width="50%">
+
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shah-zaib154)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shah_____zaib)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shah-zaib154)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shah_____zaib)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shahzaib63219@gmail.com)
 
 🌐 Portfolio: https://dev-shahzaib.vercel.app
 
----
+</td>
+<td width="50%">
 
 ## 📊 GitHub Stats
 
@@ -57,3 +88,7 @@ Python • OpenAI API • LangChain • RAG • NLP • Scikit-learn • Pandas 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shah-Zaib219&theme=tokyonight&hide_border=true&layout=compact)
 
 ![](https://nirzak-streak-stats.vercel.app/?user=Shah-Zaib219&theme=tokyonight&hide_border=true)
+
+</td>
+</tr>
+</table>
