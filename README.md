@@ -1,45 +1,42 @@
 # 👋 Shah Zaib
 
-🚀 **AI/ML Engineer | Generative AI Specialist | Flutter Developer**  
-Building intelligent AI-powered systems and scalable cross-platform applications.
+🚀 **Flutter Developer | AI Enthusiast**
 
-- 🤖 **Generative AI:** RAG, NLP, LangChain, OpenAI API  
-- 📱 **Mobile Development:** Flutter, Firebase, REST APIs  
-- 🎓 **BS Computer Science** — COMSATS University Islamabad (CGPA 3.75)  
-- 💼 **Junior Flutter Developer** @ Robotics World Pvt. Ltd.
+Building scalable cross-platform mobile applications and integrating AI-powered features to create intelligent user experiences.
+
+- 📱 Flutter • Dart • Firebase • REST API Integration  
+- 🤖 Learning & building with Generative AI (RAG, NLP, OpenAI, LangChain)  
+- 🎓 BS Computer Science — COMSATS University Islamabad (CGPA 3.75)  
+- 💼 Junior Flutter Developer @ Robotics World Pvt. Ltd.
 
 ---
 
-## 🧠 AI & Professional Focus
+## 🧠 Professional Focus
 
-✔ Generative AI Applications & Retrieval-Augmented Generation (RAG)  
-✔ Natural Language Processing (NLP) & Intelligent Chatbots  
-✔ Machine Learning Models & Data-Driven Systems  
-✔ AI-Powered Mobile Applications  
-✔ Scalable Software Architecture & API Integration  
+• Cross-platform mobile app development with Flutter  
+• Clean architecture & state management  
+• AI-powered mobile applications and chatbot integration  
+• Generative AI fundamentals and practical implementations  
 
 ---
 
 ## 🏅 Certifications
 
-- 🎓 **Microsoft Certified: Azure AI Fundamentals (AI-900)**  
-- 🤖 **Huawei Certified AI Practitioner (HCIA-AI)**  
-- 🧠 **Artificial Intelligence (Machine Learning & Deep Learning)** — NAVTTC (Govt. of Pakistan)  
-- 🐍 **Get Started with Python** — Google (Coursera)  
-- 📱 **Flutter & Dart Mobile Development** — IBM (Coursera)  
+- Microsoft Certified: Azure AI Fundamentals (AI-900)  
+- Huawei Certified AI Practitioner (HCIA-AI)  
+- Artificial Intelligence (Machine Learning & Deep Learning) — NAVTTC  
+- Flutter & Dart Mobile Development — IBM (Coursera)  
+- Get Started with Python — Google (Coursera)
 
 ---
 
 ## 💻 Tech Stack
 
-### 🤖 Artificial Intelligence & Machine Learning
-Python • OpenAI API • LangChain • Scikit-learn • Pandas • NumPy • RAG • NLP
+**Mobile Development**  
+Flutter • Dart • Firebase • API Integration • State Management
 
-### 📱 Mobile Development
-Flutter • Dart • Firebase • State Management • Cross-Platform Apps
-
-### 🌐 Backend & Tools
-PHP • MySQL • REST APIs • Git • API Integration • Object-Oriented Programming (OOP)
+**AI & Machine Learning (Learning & Practice)**  
+Python • OpenAI API • LangChain • RAG • NLP • Scikit-learn • Pandas • NumPy
 
 ---
 
@@ -60,7 +57,3 @@ PHP • MySQL • REST APIs • Git • API Integration • Object-Oriented Prog
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shah-Zaib219&theme=tokyonight&hide_border=true&layout=compact)
 
 ![](https://nirzak-streak-stats.vercel.app/?user=Shah-Zaib219&theme=tokyonight&hide_border=true)
-
----
-
-![](https://visitcount.itsvg.in/api?id=Shah-Zaib219&icon=0&color=6)
