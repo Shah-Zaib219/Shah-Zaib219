@@ -1,94 +1,59 @@
+<div align="center">
+
 # 👋 Shah Zaib
+### Flutter Developer & AI/ML Engineer
 
-🚀 **Flutter Developer | AI Enthusiast**
+Building scalable cross-platform mobile apps with intelligent AI integration.
 
-Building scalable cross-platform mobile applications and integrating AI-powered features for intelligent user experiences.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shah-zaib154)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Shah-Zaib219)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:shahzaib63219@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://dev-shahzaib.vercel.app)
 
-* 📱 Flutter • Dart • Firebase • REST APIs
-* 🤖 Generative AI (RAG, NLP, OpenAI, LangChain)
-* 🎓 BS Computer Science — COMSATS University Islamabad (CGPA 3.75)
-* 💼 Junior Flutter Developer @ Robotics World Pvt. Ltd.
-
----
-
-## 🧠 Professional Focus
-
-<table>
-<tr>
-<td width="50%">
-
-✔ Cross-platform Flutter development
-✔ Clean architecture & state management
-✔ Scalable mobile solutions
-
-</td>
-<td width="50%">
-
-✔ AI-powered apps & chatbot integration
-✔ Generative AI (RAG, NLP)
-✔ Continuous AI/ML learning
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
-## 🏅 Certifications
+### 💼 Profile
 
-<table>
-<tr>
-<td width="50%">
-
-🎓 Microsoft Azure AI Fundamentals (AI-900)
-🤖 Huawei Certified AI Practitioner (HCIA-AI)
-🧠 AI (ML & DL) — NAVTTC
-
-</td>
-<td width="50%">
-
-📱 Flutter & Dart — IBM (Coursera)
-🐍 Python Basics — Google (Coursera)
-
-</td>
-</tr>
-</table>
+* 🚀 **Junior Flutter Developer** at **Robotics World Pvt. Ltd.**
+* 🎓 **BS in Computer Science** — COMSATS University Islamabad *(CGPA: 3.75)*
+* 📱 **Core Focus:** Clean Architecture, state management, and responsive UI systems.
+* 🤖 **AI Specialization:** Generative AI, RAG pipelines, LangChain, and LLM API integrations for smart mobile experiences.
 
 ---
 
-## 💻 Tech Stack
+### 🛠️ Skills & Technologies
 
-**Mobile Development**
-Flutter • Dart • Firebase • REST APIs • State Management
-
-**AI & ML (Learning)**
-Python • OpenAI API • LangChain • RAG • NLP • Scikit-learn • Pandas • NumPy
+* **Mobile:** Flutter, Dart, GetX, Clean Architecture, REST APIs
+* **Backend & Cloud:** Firebase (Auth, FCM, Firestore), Supabase, PostgreSQL
+* **AI & Data Science:** Python, OpenAI API, LangChain, RAG, NLP, Scikit-learn, Pandas, NumPy
 
 ---
 
-<table>
-<tr>
-<td width="50%">
+### 💡 Engineering Highlights
 
-## 🌐 Connect With Me
+* **Multi-Role Architectures:** Production-grade role-based access flows (Clients, Service Providers, Admins).
+* **AI & Conversational Systems:** End-to-end integration of LLMs, vector search, and conversational bots in mobile applications.
+* **Real-Time & Engagement Features:** Live feeds, push notification pipelines, chat mechanisms, and ranking/metrics systems.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/shah-zaib154)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram\&logoColor=white)](https://instagram.com/shah_____zaib)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:shahzaib63219@gmail.com)
+---
 
-🌐 Portfolio: [https://dev-shahzaib.vercel.app](https://dev-shahzaib.vercel.app)
+### 🏅 Certifications
 
-</td>
-<td width="50%">
+* **Microsoft:** Azure AI Fundamentals (`AI-900`)
+* **Huawei:** Certified AI Practitioner (`HCIA-AI`)
+* **NAVTTC:** Artificial Intelligence (ML & DL)
+* **IBM:** Flutter & Dart Application Development
+* **Google:** Python Fundamentals
 
-## 📊 GitHub Stats
+---
 
-![](https://github-readme-stats.vercel.app/api?username=Shah-Zaib219\&theme=tokyonight\&hide_border=true\&include_all_commits=true\&count_private=true)
+<div align="center">
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shah-Zaib219\&theme=tokyonight\&hide_border=true\&layout=compact)
+### 📊 GitHub Stats
 
-![](https://nirzak-streak-stats.vercel.app/?user=Shah-Zaib219\&theme=tokyonight\&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=Shah-Zaib219&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shah-Zaib219&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" width="48%" />
 
-</td>
-</tr>
-</table>
+</div>
